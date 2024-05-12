@@ -1,6 +1,6 @@
 import cv2 
 
-# se inserta las rutas a los archivos del modelo pre-entrenado y el archivo de configuración
+# se inserta las rutas a los archivos del modelo pre-entrenado y el archivo de configuración asi  mismo
 prototxt = "model/MobileNetSSD_deploy.prototxt.txt"
 model = "model/MobileNetSSD_deploy.caffemodel"
 
